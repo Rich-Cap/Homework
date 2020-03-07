@@ -61,7 +61,9 @@ body {
 p {
     font-size: 20px;
 }
-
+.benefits p {
+    font-size: 18px;
+}
 .hero {
     height: 800px;
     width: 100%;
@@ -89,13 +91,13 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 32px 15px;
+    padding: 25px 15px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a6fa0;
+    background-color: #0c5179;
     text-align: center;
 }
 
@@ -150,27 +152,27 @@ p {
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
-    height: 350px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a6fa0;
+    background-color: #136290;
     color: #ffffff;
 }
 
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 350px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a6fa0;
+    background-color: #136290;
     color: #ffffff;
 }
 
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 350px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a6fa0;
+    background-color: #136290;
     color: #ffffff;
 }
 
@@ -202,7 +204,7 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    background-color: whitesmoke;
+    background-color: #dadada;
 }
 
 .footer h2 {
